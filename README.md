@@ -1,4 +1,4 @@
-Steps to integrate FinBox BankConnect SDK in react app
+# Sample Project for BankConnect React Client SDK 
 
 ## Steps to start
 
